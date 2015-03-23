@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RY Post Expiration\n"
+"POT-Creation-Date: 2015-03-21 15:29+0800\n"
+"PO-Revision-Date: 2015-03-21 15:42+0800\n"
+"Last-Translator: Richer Yang <fantasyworldidvtw@gmail.com>\n"
+"Language-Team:  <fantasyworldidvtw@gmail.com>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.7.4\n"
+
+msgid "Expires on: "
+msgstr "過期時間："
+
+msgid "Expires Date"
+msgstr "過期日"
+
+msgid "Post Expiration"
+msgstr "文章過期"
+
+msgid "support post type"
+msgstr "支援的文章類型"
+
+msgid "Hide article by the expiration time"
+msgstr "根據設定的時間自動將文章隱藏"
