@@ -10,6 +10,7 @@ License URI: http://opensource.org/licenses/MIT
 Hide article by the expiration time
 
 == Description ==
+
 Hide article by the expiration time
 
 == Installation ==
@@ -17,9 +18,12 @@ Hide article by the expiration time
 You can either install it automatically from the WordPress admin, or do it manually:
 
 1. Unzip the archive and put the `ry-post-expiration` folder into your plugins folder (/wp-content/plugins/).
-1. Activate the plugin from the Plugins menu.
+2. Activate the plugin from the Plugins menu.
 
 == Screenshots ==
+
+1. screenshot of setting suppost post type
+2. edit the expiration datetime for post
 
 == Changelog ==
 = 1.0.0 =
